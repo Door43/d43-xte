@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[xte:home|Door43 (xte)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-xte|d43-xte repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-xte/archive/master.zip|d43-xte.zip]]
+
+**Recent Changes**
+{{changes>ns = xte}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/xte|Ethnologue data]]
+
